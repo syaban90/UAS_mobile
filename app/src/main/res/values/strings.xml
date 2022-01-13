@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">syaban</string>
+    <string name="tekan_gambar_hewan_untuk_membuka_galeri">(Tekan gambar hewan untuk membuka galeri)</string>
+    <string name="biodata">BIODATA</string>
+    //kucing britis
+    <string name="brithis_shorthair">Brithis shorthair</string>
+    <string name="brithis_asal">inggris</string>
+    <string name="britis_deskripsi">Berasal dari inggris dengan ciri khas berbulu pendek keabu abuan  dan lembut</string>
+    //kucing mine
+    <string name="mine_coon">Mine coon</string>
+    <string name="mine_asal">Amerika</string>
+    <string name="mine_deskripsi">Mine coon adalah salah satu ras kucing tertua dan alami yang berasal dari maine, amerika</string>
+    //kucing siam
+    <string name="siam">Siam</string>
+    <string name="siam_asal">Thailand</string>
+    <string name="siam_deskripsi">Kucing siam adalah salah satu ras kucing pertama diakui jelas sebagai kucing berjeis oriental</string>
+    //burung cepluk
+    <string name="celepuk">Celepuk</string>
+    <string name="cepluk_asal">Indonesia</string>
+    <string name="cepluk_deskripsi">Burung hantu jenis ini mempunyai tubuh yang kescil</string>
+    //burung snowy
+    <string name="snowy_owl">Snowy owl</string>
+    <string name="snowy_asal">Alaska,Siberia,Finlandia (daerah bersalju)</string>
+    <string name="snowy_deskripsi">Burung hantu jenis ini mempunyai bulu berwarna putih dan hidup didaerah bersalju hingga dijuluki  snowy olw</string>
+    //ular kobra
+    <string name="king_kobra">King kobra</string>
+    <string name="king_asal">Banyak dijumpai pada hampir seluruh dunia terutama daerah tropis</string>
+    <string name="king_deskripsi">Ular jenis ini mengandung cukup racun untuk menyebabkan bahaya atau kematian pada manusia</string>
+    //ular piton
+    <string name="piton">Piton</string>
+    <string name="piton_asal">Banyak dijumpai di daerah tropis</string>
+    <string name="piton_deskripsi">Walaupun ular ini tidak termasuk ular berbisa namun gigitan serta lilitannya dapat membunuh manusia mengunakan  tubuh nya yang besar serta gigitan yag kuat</string>
+    //ular hijau
+    <string name="ular_hijau">Ular hijau</string>
+    <string name="ular_asal">Hidup didaerah tropis</string>
+    <string name="ular_deskripsi">Ular ini memiliki karakteristik berwarna hijau hingga dijuluki ular hijau, tapi tidak semua ular hijau itu berbahaya .contohnya ular pucuk dan bajing</string>
+    //burung eruasia
+    <string name="eruasia">Eruasia eagle owl</string>
+    <string name="eruasia_asal">Inggris</string>
+    <string name="eruasia_deskripsi">Burung hantu jenis ini mempunyai ciri khas unik pada matanya</string>
+    //
+    <string name="title">Kucing Burung Hantu dan Ular Pedia</string>
+    <string name="kucing_title">Kucing</string>
+    <string name="hantu_title">Hantu</string>
+    <string name="ular_title">Ular</string>
+    <string name="daftar_hewan">\"DAFTAR BERBAGAI RAS \"</string>
+    <string name="nama">Nama: Sya\'ban</string>
+    <string name="nim">Nim : 200602028</string>
+    <string name="prodi">Prodi : Programan Mobile</string>
+    <string name="hobi">Hobi : Main Game, Makan</string>
+    <string name="jurusan">Jurusan : Tennis Informatika</string>
+    <string name="ras_hantu">Ras Hantu</string>
+    <string name="asal">Asal</string>
+    <string name="deskripsi_hewan">Deskripsi hewan</string>
+    <string name="kintamani">Kintamani</string>
+    <string name="bali">Bali</string>
+    <string name="daftar_ras_hewan">Daftar Ras Hewan</string>
+    <string name="fakultas_teknik">Fakultas : Teknik</string>
+</resources>
